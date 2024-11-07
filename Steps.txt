@@ -5,4 +5,5 @@
 
 - git restore --staged "FileName"    => to remove file from being tracked ! 
 - git status  => to check project file status
+- git clone (origin url) ==> clone for project
 
