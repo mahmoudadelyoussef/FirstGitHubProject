@@ -1,6 +1,8 @@
 - git initial ( first time only)
 - git add ( followed by file name)
+- git add .    => to track al lfiles
 - git commit -m "Commit text"
 
-git restore --staged "FileName"    => to remove file from being tracked ! 
-git status  => to check project file status
+- git restore --staged "FileName"    => to remove file from being tracked ! 
+- git status  => to check project file status
+
